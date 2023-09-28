@@ -14,20 +14,19 @@ Recently interned at Nethermind, diving deep into Blockchain Consensus Protocols
 - **Freelancer Software Developer** (Oct 2019 - Present)
   - Delivered various software solutions including management tools, bots, and database management
 
-## 🛠️ Tech Stack
-- **Languages**: Go, OCaml, Rust, Python, C, Java, JavaScript, Bash, SQL, HTML, CSS, X86_64 ASM
-- **Technologies**: Linux, Git, Smart Contracts, Web Development, CI/CD, Containerization, RESTful APIs
+## 🛠️ Languages  (not in any particular order)
+Go, OCaml, Rust, Elixir, Python, C, Java, JavaScript, Bash, SQL, HTML, CSS, X86_64 ASM
 
 ## 📦 Relevant Repos
 
 - **[Arrow Distributed Directory Protocol](https://github.com/Gabulhas/Arrow-Distributed-Directory-Protocol)**: A robust implementation of the Arrow Distributed Directory Protocol enabling Queued Mutually Exclusive Access to shared objects in a Graph network. Also includes a live visualization of the network.
 Explore the [original article](https://cs.brown.edu/~mph/DemmerH98/disc.pdf) for a deeper understanding.
 
-- **[Garbage Lisp](https://github.com/Gabulhas/Garbage-Lisp)**: Discover the power of Lisp with Garbage Lisp, a Turing complete Lisp Implementation crafted in Go, proven to uphold the fundamental principles of computation.
+- **[Garbage Lisp](https://github.com/Gabulhas/Garbage-Lisp)**: Discover the power of Lisp with Garbage Lisp, a Turing complete Lisp Implementation crafted in Go.
 
-- **[Tezos PoW and Testing Tool](https://github.com/Gabulhas/Tezos-PoW-and-Testing-Tool)**: Dive into the realms of blockchain with an implementation of the Proof of Work consensus protocol, alongside a Protocol Bootstrapper and Live Tester for Tezos Blockchain Node - a significant part of my Master Degree Research.
+- **[Tezos PoW and Testing Tool](https://github.com/Gabulhas/Tezos-PoW-and-Testing-Tool)**: Implementation of the Proof of Work consensus protocol, alongside a Protocol Bootstrapper and Live Tester for Tezos Blockchain Node - a significant part of my Master Degree Research.
 
-- **[Pascal Compiler](https://github.com/Gabulhas/Pascal-Compiler)**: Traverse the journey from Pascal to X86 with this compiler, elegantly scripted in OCaml, laying a pathway for efficient code transformation.
+- **[Pascal Compiler](https://github.com/Gabulhas/Pascal-Compiler)**: Traverse the journey from Pascal to X86 with this compiler, coded in OCaml.
 
 
 ## 📚 Projects
