@@ -1,4 +1,4 @@
-# About Me
+# Cliché "About Me" thing
 
 I'm a MSc Computer Science student from the University of Beira Interior, Portugal, with a keen interest in Blockchain, Distributed Systems, and Functional Programming. 
 Recently interned at Nethermind, diving deep into Blockchain Consensus Protocols and Layer 2s.
@@ -45,6 +45,7 @@ Explore the [original article](https://cs.brown.edu/~mph/DemmerH98/disc.pdf) for
 - [Personal Blog Btw lol](https://jamusti.co)
 
 ## 🏆 Achievements
+- **Solana Breakpoint Conference 2023**: Received Student Fellowship Ticket Again!
 - **SWERC 2023**: South Eastern Europe Programming Competition
 - **Solana Breakpoint Conference 2022**: Received Student Fellowship Ticket
 - **MIUP 2022**: National Programming Competition
