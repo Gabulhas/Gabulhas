@@ -1,13 +1,14 @@
 # Cliché "About Me" thing
 
 I'm a MSc Computer Science student from the University of Beira Interior, Portugal, with a keen interest in Blockchain, Distributed Systems, and Functional Programming. 
+
 Recently interned at Nethermind, diving deep into Blockchain Consensus Protocols and Layer 2s.
 
 ## 🎓 Education
 - **BSc and MSc in Computer Science** from the University of Beira Interior 
 
 ## 💼 Work Experience
-- **Intern**, Nethermind (June 2023 - Present)
+- **Intern**, Nethermind (June 2023 - August 2023)
   - Teams: Starknet.go
 - **Junior Researcher**, Release Lab, University of Beira Interior (Sep 2022 - Present)
   - Master’s Thesis Research with a focus on Blockchain Consensus Algorithms
@@ -24,13 +25,18 @@ Explore the [original article](https://cs.brown.edu/~mph/DemmerH98/disc.pdf) for
 
 - **[Garbage Lisp](https://github.com/Gabulhas/Garbage-Lisp)**: Discover the power of Lisp with Garbage Lisp, a Turing complete Lisp Implementation crafted in Go.
 
-- **[Tezos PoW and Testing Tool](https://github.com/Gabulhas/Tezos-PoW-and-Testing-Tool)**: Implementation of the Proof of Work consensus protocol, alongside a Protocol Bootstrapper and Live Tester for Tezos Blockchain Node - a significant part of my Master Degree Research.
+- **[Tezos PoW, PoA and Live Testing Tool](https://github.com/Gabulhas/Tezos-PoW-and-Testing-Tool)**: Implementation of the Proof of Work and Proof of Authority consensus protocols, alongside a Protocol Bootstrapper and Live Tester for Tezos Blockchain Node - a significant part of my Master Degree Research.
 
 - **[Pascal Compiler](https://github.com/Gabulhas/Pascal-Compiler)**: Traverse the journey from Pascal to X86 with this compiler, coded in OCaml.
 
+- **[Advent of Code solutions](https://github.com/Gabulhas/aoc2022)**: Solutions for the Advent of Code in programming languages selected at random.
+
+- **[Key Value Database](https://github.com/Gabulhas/KVDatabase)**: Your typical Key Value Database that writes to disk. Built in C with BTrees.
+
+- **[CFL](https://github.com/Gabulhas/cfl)**: Golang Concurrent and Functional Library. Implementation of your typical Functional stuff with a touch of concurrency!
 
 ## 📚 Projects
-- **Research on Blockchain Consensus Algorithms** (Master's Thesis, expected completion: 2023)
+- **Research on Blockchain Consensus Algorithms** (Master's Thesis, 2023)
   - Implementation of a new protocol/consensus algorithm for the Tezos Blockchain
 - **Pascal Compiler** (2022)
   - Developed a Pascal Compiler generating x86_64 assembly code
