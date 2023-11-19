@@ -20,12 +20,15 @@ Go, OCaml, Rust, Elixir, Python, C, Java, JavaScript, Bash, SQL, HTML, CSS, X86_
 
 ## 📦 Relevant Repos
 
+
+- **[Thesis](https://github.com/Gabulhas/thesis-Consensus-Protocol-as-a-Plugin/blob/master/Tese.pdf)**: My written thesis on ways and tools to live test Blockchain Consensus Protocol.
+
+- **[Tezos PoW, PoA and Live Testing Tool](https://github.com/Gabulhas/Tezos-PoW-and-Testing-Tool)**: Implementation of the Proof of Work and Proof of Authority Blockchain Consensus protocols, alongside a Protocol Bootstrapper and Live Tester for Tezos Blockchain Node - a significant part of my Master Degree Research.
+
 - **[Arrow Distributed Directory Protocol](https://github.com/Gabulhas/Arrow-Distributed-Directory-Protocol)**: A robust implementation of the Arrow Distributed Directory Protocol enabling Queued Mutually Exclusive Access to shared objects in a Graph network. Also includes a live visualization of the network.
 Explore the [original article](https://cs.brown.edu/~mph/DemmerH98/disc.pdf) for a deeper understanding.
 
 - **[Garbage Lisp](https://github.com/Gabulhas/Garbage-Lisp)**: Discover the power of Lisp with Garbage Lisp, a Turing complete Lisp Implementation crafted in Go.
-
-- **[Tezos PoW, PoA and Live Testing Tool](https://github.com/Gabulhas/Tezos-PoW-and-Testing-Tool)**: Implementation of the Proof of Work and Proof of Authority consensus protocols, alongside a Protocol Bootstrapper and Live Tester for Tezos Blockchain Node - a significant part of my Master Degree Research.
 
 - **[Pascal Compiler](https://github.com/Gabulhas/Pascal-Compiler)**: Traverse the journey from Pascal to X86 with this compiler, coded in OCaml.
 
@@ -37,7 +40,8 @@ Explore the [original article](https://cs.brown.edu/~mph/DemmerH98/disc.pdf) for
 
 ## 📚 Projects
 - **Research on Blockchain Consensus Algorithms** (Master's Thesis, 2023)
-  - Implementation of a new protocol/consensus algorithm for the Tezos Blockchain
+  - Implementation of a new protocol/consensus algorithm for the Tezos Blockchain. 
+  - Implementaiton of tools to develop and test consensus protocols in real scenarios.
 - **Pascal Compiler** (2022)
   - Developed a Pascal Compiler generating x86_64 assembly code
 - **Research on Distributed Algorithms** (Bachelor's Thesis, 2021)
@@ -57,4 +61,3 @@ Explore the [original article](https://cs.brown.edu/~mph/DemmerH98/disc.pdf) for
 
 ## 🎣 Hobbies
 - Fishing, Beekeeping, Farming, Cycling, solving the Rubik's cube, and Drinking
-
