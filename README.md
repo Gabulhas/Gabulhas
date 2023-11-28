@@ -16,11 +16,11 @@ Recently interned at Nethermind, diving deep into Blockchain Consensus Protocols
   - Delivered various software solutions including management tools, bots, and database management
 
 ## 🛠️ Languages  (not in any particular order)
-Go, OCaml, Rust, Elixir, Python, C, Java, JavaScript, Bash, SQL, HTML, CSS, X86_64 ASM
+Go, OCaml, Rust, Elixir, Solidity, Python, C, Java, JavaScript, Bash, SQL, HTML, CSS, X86_64 ASM, and much more
+(Why get do we care about specific languages when the real skill is in the art of programming itself?)
+
 
 ## 📦 Relevant Repos
-
-
 - **[Thesis](https://github.com/Gabulhas/thesis-Consensus-Protocol-as-a-Plugin/blob/master/Tese.pdf)**: My written thesis on ways and tools to live test Blockchain Consensus Protocol.
 
 - **[Tezos PoW, PoA and Live Testing Tool](https://github.com/Gabulhas/Tezos-PoW-and-Testing-Tool)**: Implementation of the Proof of Work and Proof of Authority Blockchain Consensus protocols, alongside a Protocol Bootstrapper and Live Tester for Tezos Blockchain Node - a significant part of my Master Degree Research.
@@ -60,4 +60,4 @@ Explore the [original article](https://cs.brown.edu/~mph/DemmerH98/disc.pdf) for
 - **MIUP 2022**: National Programming Competition
 
 ## 🎣 Hobbies
-- Fishing, Beekeeping, Farming, Cycling, solving the Rubik's cube, and Drinking
+- Fishing, Beekeeping, Farming, Cycling, solving the Rubik's cube, and Drinking. Basically touching grass.
